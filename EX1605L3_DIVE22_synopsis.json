@@ -1,0 +1,10 @@
+{
+  "Source": "$NOAA_DIR/EX1605L3/EX1605L3_DIVE22_20160708/Full/EX1605L3_DIVE22_20160708.json",
+  "Chunks": {
+    "descending": {
+      "range": {
+        "start": 1
+      }
+    }
+  }
+}
