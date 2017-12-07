@@ -2,9 +2,67 @@
   "Source": "$NOAA_DIR/EX1605L3/EX1605L3_DIVE22_20160708/Full/EX1605L3_DIVE22_20160708.json",
   "Chunks": {
     "descending": {
-      "range": {
-        "start": 1
-      }
+      "range": {  "start": 1  }
+    },
+    "approaching bottom": {
+      "range": { "start": 38800 }
+    },
+    "approaching wing": {
+      "range": { "start": 58800 }
+    },
+    "engine one": {
+      "range": { "start": 63500 }
+    },
+    "landing gear": {
+      "range": { "start": 71500 }
+    },
+    "continued survey": {
+      "range": { "start": 75700 }
+    },
+    "second pass over leading edge": {
+      "range": { "start": 80516 }
+    },
+    "pass stbd wingtip": {
+      "range": { "start": 85800 }
+    },
+    "close examination engine four": {
+      "range": { "start": 94800 }
+    },
+    "close examination continues": {
+      "range": { "start": 99500 }
+    },
+    "scene examination": {
+      "range": { "start": 112300 }
+    },
+    "examine fuselage": {
+      "range": { "start": 115000 }
+    },
+    "fuselage artifact": {
+      "range": { "start": 118500 }
+    },
+    "turn away": {
+      "range": { "start": 175100 }
+    },
+    "engine exam": {
+      "range": { "start": 228400 }
+    },
+    "high altitude search": {
+      "range": { "start": 296800 }
+    },
+    "arrival site b": {
+      "range": { "start": 379000 }
+    },
+    "exit site b": {
+      "range": { "start": 506800 }
+    },
+    "arrival site c": {
+      "range": { "start": 623700 }
+    },
+    "exit site c": {
+      "range": { "start": 658400 }
+    },
+    "ascent": {
+      "range": { "start": 706900 }
     }
   }
 }
